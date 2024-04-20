@@ -1,0 +1,12 @@
+black
+colorama
+cx-freeze
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+isort
+piexif
+pillow
+requests
+sanitize-filename
+tqdm
