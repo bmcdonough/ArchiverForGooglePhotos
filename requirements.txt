@@ -6,7 +6,7 @@ google-auth-httplib2     #google
 google-auth-oauthlib
 isort
 piexif
-pillow
+pillow     #PIL
 requests
 sanitize-filename
 tqdm
