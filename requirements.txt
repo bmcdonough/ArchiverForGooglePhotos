@@ -1,8 +1,8 @@
 black
 colorama
 cx-freeze
-google-api-python-client
-google-auth-httplib2
+google-api-python-client     #googleapiclient
+google-auth-httplib2     #google
 google-auth-oauthlib
 isort
 piexif
